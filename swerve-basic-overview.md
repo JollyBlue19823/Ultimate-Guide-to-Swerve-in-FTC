@@ -1,7 +1,3 @@
----
-description: An introduction to swerve drive.
----
-
 # Swerve Basic Overview
 
 Swerve is the most efficient holonomic drivetrain. Although any other drivetrain is easier to put together and code, swerve has many advantages on the field.&#x20;
